@@ -231,3 +231,6 @@ This repository serves as the official landing page for PictureMate. The softwar
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://getpicturebook.com)
 
 **Get the most recent version of PictureMate today!**
+
+---
+**Last updated:** 2026-09-10 05:40:59 UTC
